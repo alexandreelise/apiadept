@@ -21,23 +21,25 @@ The examples are intentionally short with comments and for common scenarios and 
 
 ## SPECIAL THANKS
 In no particular order:
-- Peter MARTIN (@pe7er) for ignition of showcasing the Joomla Api at JoomlaDay D-A-C-H event
+- Peter MARTIN (@pe7er) for ignition of showcasing the Joomla Api at JoomlaDay D-A-CH event
 - Marc DECHÈVRE (@woluweb) a.k.a. Custom King for some ideas that led me to create this repo.
 - Tim DAVIS (@basicjoomla) for hosting the live video on his popular YouTube Channel about Joomla : BasicJoomla
 - Randy CAREY (@rcarey) for sharing his deep knowledge about Joomla ACL system and making me grasp how it truly works by watching again and again all his videos on this topic.
-- Carlos Camara (@carcam) for listening to my developer ramblings and for writing his amazing book about [Developing Extensions for Joomla! 5](https://www.packtpub.com/product/developing-extensions-for-joomla-5/9781804617991) this is not an affiliate link. I am just happy to share.
+- Carlos CAMARA (@carcam) for listening to my developer ramblings and for writing his amazing book about [Developing Extensions for Joomla! 5](https://www.packtpub.com/product/developing-extensions-for-joomla-5/9781804617991) this is not an affiliate link. I am just happy to share.
+- Eoin OLIVER (@SquareBalloonUk) for being one of the first to try out Joomla 4 api with Postman and making an insanely popular video tutorial about it. Kudos to you Eoin.
 
 ## VIDEO
 Here are some relevant public videos I found in the wild talking about topic dealt with in this blog:
 
-- Joomla World Conference 2016 | Role-Based Access Control - Randy Carey [video - English](https://www.youtube.com/watch?v=7Hy69ltVqzM)
-- JoomlaDay D-A-C-H 2022 | How to use APIs in your Joomla website? [video - English](https://www.youtube.com/watch?v=AXytRiEkjVc)
-- JoomlaDay FR 2022 | Connecter Joomla 4 à travers les API (Yann Gomiero) [video - French](https://www.youtube.com/watch?v=Wn-UNFqNyo0)
-- BasicJoomla 2022.11.23 [video - English](https://www.youtube.com/watch?v=ZH3a4MHB718)
-- JoomlaDay NL 2023.05.13 [video - English](https://www.youtube.com/watch?v=bhGYCWFdaRw)
-- JoomlaDay FR 2023.06.17 [video - French](https://www.youtube.com/watch?v=3wS8bgFpfYg)
-- JUG London 2023.06.20 [video - English](https://www.youtube.com/watch?v=TfGr80O3UeA)
-- JoomlaDay D-A-CH 2023.09.16 [video - English](https://www.youtube.com/watch?v=WeI6wIUxGbM)
+- Joomla World Conference 2016 | Role-Based Access Control - Randy Carey | [video - English](https://www.youtube.com/watch?v=7Hy69ltVqzM)
+- Joomla 4 Api Tutorial 2021 | Using the Web Services Api | [video - English](https://www.youtube.com/watch?v=lT9qodsvfZg)
+- JoomlaDay D-A-CH 2022 | How to use APIs in your Joomla website? | [video - English](https://www.youtube.com/watch?v=AXytRiEkjVc)
+- JoomlaDay FR 2022 | Connecter Joomla 4 à travers les API (Yann Gomiero) | [video - French](https://www.youtube.com/watch?v=Wn-UNFqNyo0)
+- BasicJoomla | 2022.11.23 | [video - English](https://www.youtube.com/watch?v=ZH3a4MHB718)
+- JoomlaDay | NL 2023.05.13 | [video - English](https://www.youtube.com/watch?v=bhGYCWFdaRw)
+- JoomlaDay FR | 2023.06.17 | [video - French](https://www.youtube.com/watch?v=3wS8bgFpfYg)
+- JUG London | 2023.06.20 | [video - English](https://www.youtube.com/watch?v=TfGr80O3UeA)
+- JoomlaDay D-A-CH | 2023.09.16 | [video - English](https://www.youtube.com/watch?v=WeI6wIUxGbM)
 
 
 
