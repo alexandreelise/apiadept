@@ -27,7 +27,7 @@ In no particular order:
 - Randy CAREY (@rcarey) for sharing his deep knowledge about Joomla ACL system and making me grasp how it truly works by watching again and again all his videos on this topic.
 - Carlos CAMARA (@carcam) for listening to my developer ramblings and for writing his amazing book about [Developing Extensions for Joomla! 5](https://www.packtpub.com/product/developing-extensions-for-joomla-5/9781804617991) this is not an affiliate link. I am just happy to share.
 - Eoin OLIVER (@SquareBalloonUk) for being one of the first to try out Joomla 4 api with Postman and making an insanely popular video tutorial about it. Kudos to you Eoin.
-
+- If your name is not in this list, don't worry, you are a Super Joomler too
 ## VIDEO
 Here are some relevant public videos I found in the wild talking about topic dealt with in this blog:
 
