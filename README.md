@@ -18,6 +18,8 @@ If you are eager to learn more about Joomla! Web Services and want to play aroun
 The examples are intentionally short with comments and for common scenarios and use cases. So even a non-developer could follow along.
 [Joomla Web Services Examples Ready To Use](https://github.com/alexandreelise/j4x-api-examples)
 
+## POSTMAN COLLECTION
+[100+ endpoints Joomla Web Services Postman Collection](https://documenter.getpostman.com/view/7443864/2s9YywfKez#intro)
 
 ## PRESENTATION
 [Marc Dechèvre slides presenting Joomla! Api examples](https://slides.woluweb.be/api/api.html)
