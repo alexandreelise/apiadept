@@ -32,7 +32,7 @@ In no particular order:
 - Carlos CAMARA (@carcam) for listening to my developer ramblings and for writing his amazing book about [Developing Extensions for Joomla! 5](https://www.packtpub.com/product/developing-extensions-for-joomla-5/9781804617991) this is not an affiliate link. I am just happy to share.
 - Eoin OLIVER (@SquareBalloonUk) for being one of the first to try out Joomla 4 api with Postman and making an insanely popular video tutorial about it. Kudos to you Eoin.
 - Nicola Galgano (@Alikon) for his many contributions around Web Services in Joomla core.
-- George Wilson (@GW1992) Who? George who? I guess he doesn't need any introduction at this point but for those of you who don't know him, he is one the people behind the Joomla 4 architecture and Web Services if I'm not mistaking. And was Joomla 4 release manager. Just as a reminder Joomla 4 was the first complete rewrite of the core since years and the build block of the new Joomla core Era.
+- George Wilson (@GW1992) Who? George who? I guess he doesn't need any introduction at this point but for those of you who don't know him, he is one the people behind the Joomla 4 architecture and Web Services if I'm not mistaking. And was Joomla 4 release manager. Just as a reminder Joomla 4 was the first major rewrite of the core since years and the building block of the new Joomla Era.
 - If your name is not in this list, don't worry, you are a Super Joomler too ;-)
   
 ## VIDEO
