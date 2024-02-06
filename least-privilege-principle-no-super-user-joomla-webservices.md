@@ -1,5 +1,5 @@
-# Least Privilege Principle : Joomla Web Services Without Super-User
-Super User is not mandatory anymore. 
+# Least Privilege Principle : Joomla Web Services Without SuperUser
+SuperUser is not mandatory since 2020. According to this pull request from George Wilson [Pull request 29649](https://github.com/joomla/joomla-cms/pull/29649)
 
 We could instead follow this procedure to give the least permissions possible: 
 
