@@ -6,6 +6,10 @@ After trial and error and some experiments, here I share what I think might be u
 So that you too can understand what is the true power of Web Services, in the context of Joomla.
 One last word for you: Keep on trying and learning Super Joomlers! Joomla have so much to give
 
+## ARTICLES
+[2024-02-05 Least Privilege Principle Joomla Web Services Without Super User](https://github.com/alexandreelise/apiadept/blob/main/least-privilege-principle-no-super-user-joomla-webservices.md)
+
+
 ## WHY?
 If you are a Joomla! developer or want to become a Joomla! developer there is a new resource for you
 [The Official New Joomla! Manual](https://github.com/joomla/Manual.git)
