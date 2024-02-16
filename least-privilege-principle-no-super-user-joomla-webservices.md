@@ -12,3 +12,10 @@ We could instead follow this procedure to give the least permissions possible:
 In our example it would be user **api-read-only** in **Web Service** Usergroup and **Registered** Usergroup to be able to login in Frontend and get it's **Joomla Api Token** in their user profile.
 
 As at the moment, as far as I know, there is no way to do it programmaticaly with for example **POST /api/v2/auth/token** API auth route or CLI Console command **user:auth:token** to ask for example for a time-bound fined-grained token.
+
+
+## VIDEO
+
+> Video on **Api Adept** channel with **Mr Alexandre J-S William ELISÉ** presenting **Joomla! Api WITHOUT Super User : Least Privilege Principle**
+
+[![Video on Api Adept channel with Mr Alexandre J-S William ELISÉ presenting Joomla! Api WITHOUT Super User : Least Privilege Principle](https://img.youtube.com/vi/STw0a7sOtEU/maxresdefault.jpg)](https://www.youtube.com/watch?v=STw0a7sOtEU)
