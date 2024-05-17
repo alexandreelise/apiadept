@@ -10,7 +10,7 @@ One last word for you: Keep on trying and learning Super Joomlers! Joomla have s
 [Api Tech Blog](https://apiadept.com)
 
 ## ARTICLES
-[2024-02-05 Least Privilege Principle Joomla Web Services Without Super User](https://github.com/alexandreelise/apiadept/blob/main/least-privilege-principle-no-super-user-joomla-webservices.md) **[Original Source](https://apiadept.com/technical/joomla-web-services-without-super-user)**
+[2024-02-05 Least Privilege Principle Joomla Web Services Without Super User](https://apiadept.com/technical/joomla-web-services-without-super-user)
 
 
 ## WHY?
